@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "うふ子のがんばり競馬予想",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "がんばるったらがんばる",
+    "siteUrl": "https://rentan.uhuko.me",
+    "image": "/assets/profile.gif",
+    "twitterUsername": "@___uhu"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
